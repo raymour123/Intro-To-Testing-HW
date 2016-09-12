@@ -1,0 +1,46 @@
+App: Facebook
+
+Feature 1: A user can post a website that will be listed for others to see
+
+Condition 1: The user can navigate to the 'Status Update'
+-- As a user, I can use a dropdown menu to find other features, including 'status update'
+Condition 2: The user can title their status update
+-- As a user, I can enter a title for my post
+Condition 3: The user can post content into a specified field
+-- As a user, I can copy and past my thoughts in the field
+Condition 4: The user can specify what kind of content it is
+-- As a user, I can choose whether to share an image, text, or a website
+Condtion 5: The user can specify where in the network his/her content will be found
+-- As a user, I can choose which friends/public network can view the post
+Condtion 6: Only the user can post to their account.
+-- As a user, when I'm not logged in I'm unable to post
+
+Feature 2: A user can browse for posts on the within or outside of their network
+
+Condtion 1: The user can immediately see a homepage filled with content
+-- As a user, as soon as I open the app I can see the most popular/relevant posts
+Condition 2: A member can customize their experience to meet their interests
+-- As a member, I can choose which friends or news sites I want to display in my newsfeed
+Condtion 3: The user can scroll down through content, and never run out of new posts
+-- As a user, if I don't see something I like, I can keep scrolling and more content will automatically load
+Condition 4: The user can click on a post they like and will be taken to the URL indicated
+-- As a user, I clicked on a thumbnail of a friends picture and I was able to view his albumm
+Condtion 5: The user can click the back button when viewing content to go back to the homepage
+-- As a user, when I'm done looking at one page I can click back and the original newsfeed
+Condition 6: The user can reload the page to see new posts and recent popular posts
+-- As a user, I can reload the homepage and view new posts to my newsfeed
+
+Feature 3: Friends can like or dislike posts depending on how they feel about a specific post
+
+Condition 1: A user can click on the like button and a numerical value will increase by one
+-- As a user, when like a post that I like, I see the value go up.
+Condition 2: A user can click on a the dislike/or emotions button and a numerical value will increase by one
+-- As a user, when I click a post I see the value of the post adjust.
+Condtion 3: A user can change their mind.
+-- As a user, I can change my mind as many times, but I only get one like or dislike per post.
+Condtion 4: A user who is not a friend of mine can't like my post
+-- As a user, when I try to like a post when not logged in I am promted to log in or create an account
+Condition 5: A user who would like to be my friend can send me a friend request
+-- As a user, when I wanted to friend someone I was simply click the "add friend button" to request
+Condition 6: A user can share a post with his network
+-- As a user I can share a post and it will post on the newsfeed of my other friends
